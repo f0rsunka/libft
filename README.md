@@ -5,4 +5,5 @@
 How it works?
 
   Runs only on MacOS.
+  
   Enter "make" on the command line. Now you can use this library in your project, added "#include "libft/libft.h"" in your header and compilation flag “-L” in Makefile.
